@@ -1,0 +1,1 @@
+a php based website to load and store tv show information of your favourite shows. The information will be provided by thetvdb.com. It was created to be used on localhost, usage on a public webspace is at your own risk.
